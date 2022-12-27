@@ -1,0 +1,17 @@
+##################################################################################################################
+##################################################################################################################
+Usuario de aplicación:
+gis_user_raster_prod
+gDhXBtufIxpSR6n7
+
+MDT1_08296000_20220111
+Municipio: Galapa
+Proyecto: mdt08296000galapa
+Raster: C:\igac\conn\MapasColombiaImagenesAzure.acs\IMG\IMG32BITS\MD\Municipios\MDT1_08296000_20220111\MDT1_08296000_20220111.tif
+
+###################################################################################################################
+
+Orto20_50683000_20220302
+Municipio: San Juan De Arama
+Proyecto: orto50683sanjuandearama
+Raster: C:\igac\conn\MapasColombiaImagenesAzure.acs\IMG\IMG08BITS\Orto\50683sanjuandearama\Orto20_50683000_20220302.tif

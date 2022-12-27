@@ -1,0 +1,43 @@
+DATASET;FEATURECLASS;COD;NOM;IDEN
+CoberturaTierra;AExtra;5002;Áreas de Extracción;AEIdentif
+CoberturaTierra;Bosque;5001;Bosque;BIdentif
+CoberturaTierra;ZVerde;5003;Zona verde;ZVIdentif
+Elevacion;CNivel;6001;Curva de nivel;CNIdentif
+Elevacion;LDTerr;6002;Línea de demarcación de terreno;LDTIdentif
+Geodesia;MRTerr;1001;Marco de referencia terrestre;MRTIdentif
+Hidrografia;BArena;4005;Banco de arena;BAIdentif
+Hidrografia;DAgua_P;4002;Deposito de agua;DAIdentif
+Hidrografia;DAgua_R;4002;Deposito de agua;DAIdentif
+Hidrografia;Drenaj_L;4001;Drenaje;DIdentif
+Hidrografia;Humeda;4006;Humedal;HIdentif
+Hidrografia;Isla;4004;Isla;IsIdentif
+Hidrografia;Mangla;4003;Manglar;MgIdentif
+Hidrografia;Drenaj_R;4001;Drenaje;DIdentif
+Hidrografia;DAgua_L;4002;Deposito de agua;DAIdentif
+InfraestructuraServicios;PDistr;8002;Punto de distribucion;PDIdentif
+InfraestructuraServicios;Pozo;8004;Pozo;PoIdentif
+InfraestructuraServicios;RATens;8001;Red de alta tension;RATIdentif
+InfraestructuraServicios;TSPubl;8003;Tapa de servicios públicos;TSPIdentif
+InfraestructuraServicios;Tuberi;8005; tuberia;TubIdentif
+NombresGeograficos;NGeogr;9001;Nombre geogrâ€¡fico;NGIdentif
+OrdenamientoTerritorial;Depart;7002;Departamento;DeCodigo
+OrdenamientoTerritorial;LLimit;7001;Línea limítrofe;LLIdentif
+OrdenamientoTerritorial;Fronte;7004;Frontera;FCodigo
+OrdenamientoTerritorial;MDANMu;7003;Municipio distrito y area no municipalizada;MDANMCodig
+Transporte;LVia;3005;Limite via;LVIdentif
+Transporte;Puente_L;3002;Puente;PIdentif
+Transporte;SVial;3006;Separador vial;SVIdentif
+Transporte;Tunel;3003;Tunel;TIdentif
+Transporte;VFerre;3004;Via ferrea;VFIdentif
+Transporte;Via;3001;Via;VIdentif
+Transporte;Ciclor;3007; cicloruta;CiIdentif
+Transporte;Puente_P;3002;Puente;PIdentif
+Transporte;Telefe;3008; teleferico;TelIdentif
+ViviendaCiudadTerritorio;Cerca;2002;Cerca;CeIdentif
+ViviendaCiudadTerritorio;Constr_P;2001;Construccion;CIdentif
+ViviendaCiudadTerritorio;Constr_R;2001;Construccion;CIdentif
+ViviendaCiudadTerritorio;Muro;2003;Muro;MuIdentif
+ViviendaCiudadTerritorio;Piscin;2005;Piscina;PiIdentif
+ViviendaCiudadTerritorio;ZDura;2004;Zona dura;ZDIdentif
+ViviendaCiudadTerritorio;Terrap;2007; terraplen;TeIdentif
+ViviendaCiudadTerritorio;LDemar;6001;linea de demarcacion;LDIdentif
