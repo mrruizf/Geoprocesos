@@ -9,8 +9,6 @@ def numer(num):
         return False
 
 """
-fc2 = r"\\172.26.0.20\Elite_Sub_Geografia_Cartografia\Z_Transferencias\Marlon Ruiz\Dron_Edna\GDB\Proceso_Fotogrametrico_Dron_ON.gdb\EVALUACION_DRON\MARCO_DRON" #input feature class
-fc3 = r"\\172.26.0.20\Elite_Sub_Geografia_Cartografia\Z_Transferencias\Marlon Ruiz\Dron_Edna\GDB\Proceso_Fotogrametrico_Dron_ON.gdb\EVALUACION_DRON\AFECTACION_DRON" #target feature class
 checkfields = 'ID_AEROFOTO' #fields to compare
 """
 try:
